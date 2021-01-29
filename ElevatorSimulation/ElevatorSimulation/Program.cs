@@ -27,13 +27,13 @@ namespace ElevatorSimulation
                 //input validation
                 do
                 {
-                    Console.WriteLine($"Enter origin floor (0-9) for passenger {i + 1}:");
+                    Console.WriteLine($"Enter origin floor (0-10) for passenger {i + 1}:");
                     origin = Convert.ToInt32(Console.ReadLine());
                 } while (origin > MAX_FLOORS || origin < GROUND_FLOOR);
 
                 do
                 {
-                    Console.WriteLine($"Enter destination floor (0-9) for passenger {i + 1}:");
+                    Console.WriteLine($"Enter destination floor (0-10) for passenger {i + 1}:");
                     destination = Convert.ToInt32(Console.ReadLine());
                 } while (destination > MAX_FLOORS || destination < GROUND_FLOOR);
                 
