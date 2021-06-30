@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MantelLogFileParser", "MantelLogFileParser\MantelLogFileParser.csproj", "{931CBF8B-8557-41E7-98E6-4EF6D8A34820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MantelLogFileParser.Tests", "MantelLogFileParser.Tests\MantelLogFileParser.Tests.csproj", "{3100FEB6-5B84-4AB7-9DE5-E73CD4DD8884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931CBF8B-8557-41E7-98E6-4EF6D8A34820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931CBF8B-8557-41E7-98E6-4EF6D8A34820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931CBF8B-8557-41E7-98E6-4EF6D8A34820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931CBF8B-8557-41E7-98E6-4EF6D8A34820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3100FEB6-5B84-4AB7-9DE5-E73CD4DD8884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3100FEB6-5B84-4AB7-9DE5-E73CD4DD8884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3100FEB6-5B84-4AB7-9DE5-E73CD4DD8884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3100FEB6-5B84-4AB7-9DE5-E73CD4DD8884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC06C190-6EF1-4CEE-B486-21FF2BB1435B}
+	EndGlobalSection
+EndGlobal

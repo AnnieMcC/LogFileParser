@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{931CBF8B-8557-41E7-98E6-4EF6D8A34820}|Default">
+  <MonoDevelop.Ide.ItemProperties.MantelLogFileParser.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MantelLogFileParser FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MantelLogFileParser.Tests/UnitTest1.cs">
+    <Files>
+      <File FileName="MantelLogFileParser/Program.cs" Line="24" Column="45" />
+      <File FileName="MantelLogFileParser/Models/HttpRequestModel.cs" Line="68" Column="2" />
+      <File FileName="MantelLogFileParser/Models/LogFileData.cs" Line="31" Column="2" />
+      <File FileName="MantelLogFileParser/Models/LogFileDataSummary.cs" Line="15" Column="1" />
+      <File FileName="MantelLogFileParser/Services/DataFileService.cs" Line="58" Column="1" />
+      <File FileName="MantelLogFileParser/Services/LogFileParserService.cs" Line="38" Column="1" />
+      <File FileName="MantelLogFileParser.Tests/UnitTest1.cs" Line="90" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MantelLogFileParser" expanded="True">
+            <Node name="MantelLogFileParser" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="MantelLogFileParser.Tests" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MantelLogFileParser" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
